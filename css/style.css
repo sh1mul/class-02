@@ -5,12 +5,11 @@ section{
 	width:1200px;
 	margin-left: auto;
 	margin-right: auto;
-	background-color: black;
+	/* background-color: black; */
 	padding:30px;
-	color:orange;
+	/* color:orange; */
 	margin-top:100px;
 	overflow: hidden;
-
 }
 .box{
 	width: 33.33%;
@@ -21,8 +20,8 @@ section{
 p{
 	font-size:16px;color:black;
 }
-.green{ background-color:gray; padding:15px;}
-.orange{ background-color:seagreen; padding:15px;}
+.green{background-color: #5b148808;padding:15px;}
+.orange{background-color: #20b3610a;padding:15px;}
 
-.pink{background-color:pink; padding:15px;}
+.pink{background-color: #ffc0cb1a;padding:15px;}
 
